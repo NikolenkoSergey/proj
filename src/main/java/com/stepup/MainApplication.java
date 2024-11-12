@@ -5,4 +5,8 @@ public class MainApplication {
         System.out.println("Hello World!");
         System.out.println("111111");
     }
+
+    public static void doSomething(){
+
+    }
 }
